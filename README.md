@@ -1,4 +1,8 @@
-# Narpat-Aanjana
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narpat Aanjana</h1>
+<h3 align="center">An undergraduate student, tech enthusiast and  learner</h3>
+
+ <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 - ð Hi, Iâm @NarpatAanjana
 - ð Iâm interested in Computer Science 
 - ð± Iâm currently learning Web-Development
@@ -6,8 +10,7 @@
 - ð« How to reach me.
 - website- https://1194o.wordpress.com/
      
-   <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarpatAanjana" alt="NarpatAanjana" /></a> </p>
