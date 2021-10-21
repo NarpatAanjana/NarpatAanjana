@@ -5,6 +5,8 @@
 - ðï¸ Iâm looking to collaborate on .intership company..
 - ð« How to reach me.
 - website- https://1194o.wordpress.com/
+     
+   <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
 
