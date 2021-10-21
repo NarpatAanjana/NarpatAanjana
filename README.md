@@ -25,6 +25,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&" alt="NarpatAanjana" /></p>
 
 
+<a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Priyanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 <!---
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
