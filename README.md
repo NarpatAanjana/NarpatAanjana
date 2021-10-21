@@ -1,11 +1,10 @@
 # Narpat-Aanjana
-- ð Hi, Iâm @vishalkumar8
+- ð Hi, Iâm @NarpatAanjana
 - ð Iâm interested in Computer Science 
 - ð± Iâm currently learning Web-Development
 - ðï¸ Iâm looking to collaborate on .intership company..
 - ð« How to reach me.
-- Blog - www.vishalcomputersoft.blogspot.com
-- website- https://infohelpful4u.wordpress.com/
+- website- https://1194o.wordpress.com/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
 
