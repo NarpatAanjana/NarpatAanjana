@@ -21,6 +21,9 @@
 <p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarpatAanjana" alt="NarpatAanjana" /></a> </p>
 ## 🚀 Languages and Tools:
 
+</br>
+</br>
+</br>
 <p align="left"> 
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
