@@ -9,7 +9,9 @@
 - ðï¸ Iâm looking to collaborate on .intership company..
 - ð« How to reach me.
 - website- https://1194o.wordpress.com/
-  
+   
+   <p align="right">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
+   
   <p align="left">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="left">GitHub Profile Trophy</h2>
@@ -19,7 +21,7 @@
 <p align="right">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
 
 <p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarpatAanjana" alt="NarpatAanjana" /></a> </p>
-<h3> ## 🚀 Languages and Tools: </h3>
+<h2> ## 🚀 Languages and Tools: </h2>
 
 </br>
 </br>
