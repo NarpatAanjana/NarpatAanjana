@@ -3,13 +3,19 @@
 
  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- ð Hi, Iâm @NarpatAanjana
-- ð Iâm interested in Computer Science 
-- ð± Iâm currently learning Web-Development
-- ðï¸ Iâm looking to collaborate on .intership company..
-- ð« How to reach me.
-- website- https://1194o.wordpress.com/
-   
+HELLO, I’m Narpat Aanjana
+
+B.Tech CS Student
+I’m Interested in coding and playing with computer ...
+I’m currently learning c,, c++ ...
+interested in web development
+I’m looking to collaborate on .intership company..
+📫 How to reach me ...
+Gmail - narpatanjana0@gmail.com
+Linkdin www.linkedin.com/in/narpat-aanjana-84377620b/
+website 1194o.wordpress.com
+cool
+
    
    </br>
    </br>
