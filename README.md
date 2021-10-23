@@ -10,10 +10,10 @@
 - ð« How to reach me.
 - website- https://1194o.wordpress.com/
   
-  <p align="center">
+  <p align="left">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆</p>
+  <h2 align="left">GitHub Profile Trophy</h2>
+  <p align="left">🏆</p>
 </p>
   
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
