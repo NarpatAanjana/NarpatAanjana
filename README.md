@@ -10,6 +10,9 @@
 - ð« How to reach me.
 - website- https://1194o.wordpress.com/
    
+   
+   </br>
+   </br>
    <p align="right">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
    
   <p align="left">
@@ -17,8 +20,7 @@
   <h2 align="left">GitHub Profile Trophy</h2>
   <p align="center">🏆</p>
 </p>
-  
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
+ 
 
 <p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarpatAanjana" alt="NarpatAanjana" /></a> </p>
 <h2> ## 🚀 Languages and Tools: </h2>
