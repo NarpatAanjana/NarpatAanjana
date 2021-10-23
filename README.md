@@ -3,13 +3,14 @@
 
  <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-HELLO, I’m Narpat Aanjana
+<h2>HELLO, I’m Narpat Aanjana </h2>
 
-B.Tech CS Student
-I’m Interested in coding and playing with computer ...
-I’m currently learning c,, c++ ...
-interested in web development
-I’m looking to collaborate on .intership company..
+<h3>B.Tech CS Student</h3>
+<h3>I’m Interested in coding and playing with computer ...</h3>
+<h3>I’m currently learning c,, c++ ...</h3>
+<h3>interested in web development </h3>
+<h3>I’m looking to collaborate on .intership company.. </h3>
+
 📫 How to reach me ...
 Gmail - narpatanjana0@gmail.com
 Linkdin www.linkedin.com/in/narpat-aanjana-84377620b/
