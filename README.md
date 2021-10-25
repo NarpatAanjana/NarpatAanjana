@@ -12,10 +12,10 @@
 <h3>I’m looking to collaborate on .intership company.. </h3>
 
 <h2>📫 How to reach me ... </h2>
-Gmail - narpatanjana0@gmail.com 
+Gmail narpatanjana0@gmail.com 
 Linkdin www.linkedin.com/in/narpat-aanjana-84377620b/ 
 website 1194o.wordpress.com 
-cool 
+ 
 
    
    </br>
