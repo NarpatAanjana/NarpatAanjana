@@ -11,9 +11,9 @@
 <h3>I’m looking to collaborate on .intership company.. </h3>
 
 <h2>📫 How to reach me ... </h2>
-Gmail -www.narpatanjana0@gmail.com 
-Linkdin -www.linkedin.com/in/narpat-aanjana-84377620b/ 
-website -https://1194o.wordpress.com/
+<h3>Gmail -www.narpatanjana0@gmail.com</h3> 
+<h3>Linkdin -www.linkedin.com/in/narpat-aanjana-84377620b/</h3> 
+<h3>website -https://1194o.wordpress.com/</h3>
  
 
    
