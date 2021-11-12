@@ -7,14 +7,13 @@
 
 <h3>B.Tech CS Student</h3>
 <h3>I’m Interested in coding and playing with computer ...</h3>
-<h3>I’m currently learning c,, c++ ...</h3>
 <h3>interested in web development </h3>
 <h3>I’m looking to collaborate on .intership company.. </h3>
 
 <h2>📫 How to reach me ... </h2>
-Gmail narpatanjana0@gmail.com 
-Linkdin www.linkedin.com/in/narpat-aanjana-84377620b/ 
-website 1194o.wordpress.com 
+Gmail -www.narpatanjana0@gmail.com 
+Linkdin -www.linkedin.com/in/narpat-aanjana-84377620b/ 
+website -https://1194o.wordpress.com/
  
 
    
