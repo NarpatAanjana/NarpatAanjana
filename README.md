@@ -9,7 +9,7 @@
 <h3>I’m Interested in coding and playing with computer ...</h3>
 <h3>Now I Am Learn UX/UI Design   </h3>
 <h3>interested in web development </h3>
-<h3>I’m looking to collaborate on .intership company.. </h3>
+<h3> Now Doing Internship At IT Universe</h3>
 
 
 <h2>📫 How to reach me ... </h2>
