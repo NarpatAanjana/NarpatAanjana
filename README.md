@@ -60,7 +60,7 @@
 <br/>
 
 
-<a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?user=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Conect with me: 
 <p align="left">
