@@ -32,7 +32,6 @@
 <h2> ## 🚀 Languages and Tools: </h2>
 
 </br>
-</br>
 <p align="left"> 
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>  
