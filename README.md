@@ -48,7 +48,7 @@
 <br/>
 
 ## 📊 My Github Stats
-<p>
+
    
      <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
