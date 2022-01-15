@@ -50,13 +50,12 @@
 ## 📊 My Github Stats
 <p>
    
-     <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+     <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
  <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <br/>
   
-     <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <p align="center">
    <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
