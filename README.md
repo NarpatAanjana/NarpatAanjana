@@ -7,10 +7,10 @@
 
 <h3>B.Tech CS Student</h3>
 <h3>I’m Interested in coding and playing with computer ...</h3>
-<h3>Now I Am Learn UX/UI Design   </h3>
+<h3>I Am Learn UX/UI Design   </h3>
 <h3>interested in web development </h3>
 <h3> Now Doing Internship At IT Universe</h3>
-
+<h3> Also Doing Something in Python <h3>
 
 <h2>📫 How to reach me ... </h2>
  <h3>Gmail -www.narpatanjana0@gmail.com</h3> 
