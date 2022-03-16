@@ -46,7 +46,7 @@
  <a href="https://www.wordpress.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="50" height="50"/> </a>
  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/> </a>
 <br/>
-<a href="https://www.adobe.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe illustrator/adobe illustrator-icon.svg" alt="adobe illustrator" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="adobe illustrator" width="50" height="50"/> </a>
 <br/>
 
 ## 📊 My Github Stats
