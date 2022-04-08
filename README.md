@@ -7,7 +7,7 @@
 
 <h3>B.Tech CS Student</h3>
 <h3>I’m Interested in coding and playing with computer ...</h3>
-<h3>I Am working  UX/UI Design   </h3>
+<h3>I Am working on UX/UI Design   </h3>
 <h3>interested in web development </h3>
 <h3> Now Doing Internship At IT Universe</h3>
 
