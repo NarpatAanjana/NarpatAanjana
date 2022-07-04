@@ -1,4 +1,4 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Narpat Aanjana</h1>
+ <h1 align="right">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Narpat Aanjana</h1>
  <h3  align="center">An undergraduate student, tech enthusiast and  learner</h3>
 <img width="350" padding-top="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h2>HELLO, I’m Narpat Aanjana </h2>
