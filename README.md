@@ -13,6 +13,7 @@
  <h3>Gmail -www.narpatanjana0@gmail.com</h3> 
 <h3>Linkdin -www.linkedin.com/in/narpat-aanjana-84377620b/</h3> 
 <h3>website -https://1194o.wordpress.com/</h3>
+<h3>Leetcode -www.leetcode.com/narpat0
  
 
    
