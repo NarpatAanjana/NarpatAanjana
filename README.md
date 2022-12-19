@@ -205,8 +205,7 @@ You can click the Preview link to take a look at your changes.
   [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
 </details>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)](https://itsrakesh.co)
- <p align="right">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=0e75b6&style=flat" alt="NarpatAanjana" /> </p>
+ <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
 <!---
 RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
