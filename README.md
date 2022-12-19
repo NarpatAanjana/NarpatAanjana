@@ -163,33 +163,26 @@ You can click the Preview link to take a look at your changes.
 
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://itsrakesh.co)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://itsrakesh.co)
-[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://itsrakesh.co)
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://itsrakesh.co)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://itsrakesh.co)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://itsrakesh.co)
+[![Adobe Photoshop](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://itsrakesh.co)
+[![Figma](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://itsrakesh.co)
+[!Adobe Illustrator](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://itsrakesh.co)
+[![Wordpress](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://itsrakesh.co)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://itsrakesh.co)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://itsrakesh.co)
-[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://itsrakesh.co)
-[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://itsrakesh.co)
-[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://itsrakesh.co)
-[![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://itsrakesh.co)
-[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://itsrakesh.co)
+[![Adriod Studio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://itsrakesh.co)
 
 ### 🧠 IDEs/Text Editors I use
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://itsrakesh.co)
-[![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://itsrakesh.co)
+[![Sublime](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://itsrakesh.co)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://itsrakesh.co)
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://itsrakesh.co)
-[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://itsrakesh.co)
+[![Atom](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://itsrakesh.co)
 [![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://itsrakesh.co)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.co)
+[![Jupyter Notebook](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.co)
 
 ### 💻 Workspace
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)
-[![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://itsrakesh.co)
-[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://itsrakesh.co) -->
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)>
 
 ---
 
@@ -200,10 +193,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <details>
-  <summary>🧑‍🔬 This week I did</summary>
-  
-  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
-</details>
 
  <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
 <!---
