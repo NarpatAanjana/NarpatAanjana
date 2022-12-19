@@ -94,7 +94,7 @@
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-
+<!---
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
 <h3 align="center">🌐 Web Developer 👨‍💻 Designer ✈️ Internet Explorer 🥷 Tech Enthusiast</h3>
 
@@ -124,6 +124,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" > -->
 
 ---
+<!---
 
 ### 🧑‍💻 Languages
 
@@ -195,7 +196,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 
  <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
-<!---
+
 RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
