@@ -104,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rakesh@itsrakesh.co**
+- 📫 How to reach me *
 
 ### 🤝 Connect with me:
 
@@ -195,9 +195,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🔝 Most used languages
 
-<a href="https://itsrakesh.co">
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-</a>
+<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ---
 
