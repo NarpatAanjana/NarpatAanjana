@@ -8,7 +8,6 @@
 <h3>interested in web development </h3>
 <h3> Now Doing Internship At IT Universe</h3>
 
-
 <h2>📫 How to reach me ... </h2>
  <h3>Gmail -www.narpatanjana0@gmail.com</h3> 
 <h3>Linkdin -www.linkedin.com/in/narpat-aanjana-84377620b/</h3> 
@@ -27,10 +26,22 @@
  
 
 <p align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NarpatAanjana" alt="NarpatAanjana" /></a> </p>
+
+
 <h2> ## 🚀 Languages and Tools: </h2>
 
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://itsrakesh.co)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://itsrakesh.co)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://itsrakesh.co)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://itsrakesh.co)
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://itsrakesh.co)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://itsrakesh.co)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://itsrakesh.co)
+[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://itsrakesh.co)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
 </br>
 <p align="left"> 
+ 
 <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>  
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -76,11 +87,11 @@
 <a href="https://auth.geeksforgeeks.org/user/narpatanjana0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmay777leon" height="30" width="40" /></a>
  
 
+ 
 </p>
     <!---
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrakeshdotco)
+-->
+
+
