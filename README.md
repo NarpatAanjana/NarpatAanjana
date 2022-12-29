@@ -127,8 +127,10 @@ You can click the Preview link to take a look at your changes.
            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=tokyonight&hide_border=true" alt="Narpat's github streak" width="48%" > 
-  <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
-
+ 
+ <p align="right">
+ <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
+ </p>
 
 
 
