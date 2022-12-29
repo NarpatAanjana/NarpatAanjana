@@ -116,18 +116,21 @@ You can click the Preview link to take a look at your changes.
 
 
 -->
-
+ 
 [![ff.jpg](https://i.postimg.cc/QdCdttWK/ff.jpg)](https://postimg.cc/NKhcCQDQ)
-
+   
 ### 📊 Stats
 
-<<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   
 
- <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
+<!-- <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=tokyonight&hide_border=true" alt="Narpat's github streak" width="48%" > 
+  <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" > -->
+
+
 
 ---
 <!---
