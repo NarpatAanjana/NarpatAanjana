@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Narpat Aanjana</h1>
  <h3  align="center">An undergraduate student, tech enthusiast and  learner</h3>
 <img width="350" padding-top="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -94,7 +94,7 @@
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
 <h3 align="center">🌐 Web Developer 👨‍💻 Designer ✈️ Internet Explorer 🥷 Tech Enthusiast</h3>
 
@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Narpat0AAnjana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narpat-aanjana-84377620b)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://)
----
+--->
 
  
 [![ff.jpg](https://i.postimg.cc/QdCdttWK/ff.jpg)](https://postimg.cc/NKhcCQDQ)
@@ -132,7 +132,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<!--
 
 ### 🧑‍💻 Languages
 
