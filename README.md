@@ -101,6 +101,8 @@ You can click the Preview link to take a look at your changes.
  <p align="right">
  <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
  </p>
+
+<a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
@@ -120,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Narpat0AAnjana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narpat-aanjana-84377620b)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://)
---->
+
 
   
 ### 📊 Stats
@@ -132,7 +134,7 @@ You can click the Preview link to take a look at your changes.
     </a>
  <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
- <a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ 
  
 
 
@@ -211,7 +213,7 @@ You can click the Preview link to take a look at your changes.
 -->
  <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
 
-RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Narpat.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 
