@@ -103,7 +103,18 @@ You can click the Preview link to take a look at your changes.
  </p>
 
 <a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+### 🔝 Most used languages
+
+<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+---
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=tokyonight&hide_border=true" alt="Narpat's github streak" width="48%" > 
+
+<details>
 -->
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
 <h3 align="center">🌐 Web Developer 👨‍💻 Designer ✈️ Internet Explorer 🥷 Tech Enthusiast</h3>
@@ -125,14 +136,6 @@ You can click the Preview link to take a look at your changes.
 
 
   
-### 📊 Stats
-
-<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   
-
-< <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
-           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
- <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
  
  
@@ -200,21 +203,20 @@ You can click the Preview link to take a look at your changes.
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)>
 
----
 
-### 🔝 Most used languages
+### 📊 Stats
 
-<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   
 
----
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=tokyonight&hide_border=true" alt="Narpat's github streak" width="48%" > 
+<a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
+           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarpatAanjana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+    
+ <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<details>
--->
  <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
 
-Narpat.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
 
 
