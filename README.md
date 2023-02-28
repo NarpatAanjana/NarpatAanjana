@@ -1,4 +1,4 @@
-
+<!--
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Narpat Aanjana</h1>
  <h3  align="center">An undergraduate student, tech enthusiast and  learner</h3>
 <img width="350" padding-top="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -87,13 +87,21 @@
 <a href="https://leetcode.com/Narpat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/narpatanjana0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmay777leon" height="30" width="40" /></a>
  
-
  
 </p>
     
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
+
+ [![p1.png](https://i.postimg.cc/k5LjD1TD/p1.png)](https://postimg.cc/mcN35wfG)
+
+[![ff.jpg](https://i.postimg.cc/QdCdttWK/ff.jpg)](https://postimg.cc/NKhcCQDQ)
+
+ <p align="right">
+ <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
+ </p>
+-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
 <h3 align="center">🌐 Web Developer 👨‍💻 Designer ✈️ Internet Explorer 🥷 Tech Enthusiast</h3>
@@ -114,9 +122,6 @@ You can click the Preview link to take a look at your changes.
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://)
 --->
 
- [![p1.png](https://i.postimg.cc/k5LjD1TD/p1.png)](https://postimg.cc/mcN35wfG)
-
-[![ff.jpg](https://i.postimg.cc/QdCdttWK/ff.jpg)](https://postimg.cc/NKhcCQDQ)
   
 ### 📊 Stats
 
@@ -129,9 +134,7 @@ You can click the Preview link to take a look at your changes.
  
  <a href="https://github.com/NarpatAanjana/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NarpatAanjana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
- <p align="right">
- <img src="https://user-images.githubusercontent.com/86047565/209903175-e7847e93-eb6e-4755-9fc2-3f7001c80e8e.gif">
- </p>
+
 
 
 
