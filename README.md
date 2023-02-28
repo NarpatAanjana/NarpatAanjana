@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Narpat Aanjana</h1>
  <h3  align="center">An undergraduate student, tech enthusiast and  learner</h3>
 <img width="350" padding-top="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -93,8 +93,8 @@
     
 NarpatAanjana is a â¨ special â¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
--->
-<!--
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
 <h3 align="center">🌐 Web Developer 👨‍💻 Designer ✈️ Internet Explorer 🥷 Tech Enthusiast</h3>
 
@@ -115,9 +115,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
  [![p1.png](https://i.postimg.cc/k5LjD1TD/p1.png)](https://postimg.cc/mcN35wfG)
-<!--
+
 [![ff.jpg](https://i.postimg.cc/QdCdttWK/ff.jpg)](https://postimg.cc/NKhcCQDQ)
-   -->
+  
 ### 📊 Stats
 
 <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NarpatAanjana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>   
@@ -135,7 +135,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--
 
 ### 🧑‍💻 Languages
 
@@ -208,10 +207,10 @@ You can click the Preview link to take a look at your changes.
 <details>
 -->
  <p align="left">  <img src="https://komarev.com/ghpvc/?username=NarpatAanjana&label=Profile%20views&color=ed8d00&style=flat" alt="NarpatAanjana" /> </p>
-<!--
+
 RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 
 
