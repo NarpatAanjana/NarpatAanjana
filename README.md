@@ -130,7 +130,7 @@ ive)
 [![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]
 
 <details>
--->
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Narpat Aanjana</h1>
@@ -202,7 +202,7 @@ ive)
 ### 💻 Workspace
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)>
-
+-->
 
 ### 📊 Stats
 
