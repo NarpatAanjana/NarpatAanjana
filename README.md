@@ -4,7 +4,7 @@
 <img width="350" padding-top="500" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h2>HELLO, I’m Narpat Aanjana </h2>
 <h3>B.Tech CS Student</h3>
-<h3>I’m Interested in coding and playing with computer ...</h3>
+<h3>I’m Interested in coding and playing with computers...</h3>
 <h3>I Am working on UX/UI Design   </h3>
 <h3>interested in web development </h3>
 <h3> Now Doing Internship At IT Universe</h3>
@@ -214,7 +214,7 @@ ive)
     
  <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarpatAanjana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
- ### Conect with me: 
+ ### Connect with me: 
 <p align="left">
 <a href="https://linkedin.com/in/narpat-aanjana-84377620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/narpatanjana0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
